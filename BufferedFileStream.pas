@@ -46,11 +46,11 @@
       github.com/TheLazyTomcat/Lib.BufferedFileStream
 
   Dependencies:
-   *AuxExceptions - github.com/TheLazyTomcat/Lib.AuxExceptions
-    AuxTypes      - github.com/TheLazyTomcat/Lib.AuxTypes          
+  * AuxExceptions - github.com/TheLazyTomcat/Lib.AuxExceptions
+    AuxTypes      - github.com/TheLazyTomcat/Lib.AuxTypes
 
-  Library AuxExceptions is required only when rebasing local exception
-  classes (see symbol BufferedFileStream_UseAuxExceptions for details).
+  Library AuxExceptions is required only when rebasing local exception classes
+  (see symbol BufferedFileStream_UseAuxExceptions for details).
 
   Indirect dependencies:
     SimpleCPUID - github.com/TheLazyTomcat/Lib.SimpleCPUID
